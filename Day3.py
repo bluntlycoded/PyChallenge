@@ -1,13 +1,21 @@
+
+
+
+
+
 #Tresure Island 
 
 #Question:Using Conditional Statements Make A game Of Tresure Island
+
+
+#Solution:
 
 print("Welcome to Tresure Island")
 print("your Mission is to find The Tresure")
 print("You came Across Cross Road,Which Side You Will go\nEnter"+ "left"+"or"+"right")
 y=input("Note Program is Case Sensitive\n Follow the exact Instructions")
 if y=="left":
-    print("You Fel Into A Lake Full Of Crocodile\nYou Are Dead!!!\nGAME OVER")
+    print("You Fell Into A Lake Full Of Crocodile\nYou Are Dead!!!\nGAME OVER")
     pass
 elif y=="right":
     print("You Came Across Another Turn\n Where do you want to turn"+"left or right")
