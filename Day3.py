@@ -1,8 +1,3 @@
-
-
-
-
-
 #Tresure Island 
 
 #Question:Using Conditional Statements Make A game Of Tresure Island

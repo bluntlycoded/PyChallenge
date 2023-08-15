@@ -1,7 +1,3 @@
-
-
-
-
 #ROCK PAPER SCISSORS GAME
 #Question:Create A Rock Paper Scissors Game using Random Mdoule in Python
 

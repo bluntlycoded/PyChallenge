@@ -1,8 +1,6 @@
-
-
-
 #PyPassword Generator
-#Question:Take Input Of Length Of Password From User,How Many Charecters How Many Symbols And How Many Numbers Then Input A random Password For The User
+#Question:Take Input Of Length Of Password From User,How Many Charecters How Many Symbols And How Many Numbers 
+#Then Input A random Password For The User
 
 #Solution:
 
